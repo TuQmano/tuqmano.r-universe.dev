@@ -30,5 +30,9 @@
     {
         "package": "polArverse",
         "url": "https://github.com/PoliticaArgentina/polArverse"
+    },
+    {
+        "package": "polArViz",
+        "url": "https://github.com/PoliticaArgentina/polArViz"
     }
 ]
