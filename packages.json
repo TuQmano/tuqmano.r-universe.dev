@@ -34,5 +34,18 @@
     {
         "package": "polArViz",
         "url": "https://github.com/PoliticaArgentina/polArViz"
-    }
+    },
+    {  
+
+    "package": "herramientas",
+    "url": "https://github.com/dnme-minturdep/herramientas/" 
+    
+   }, 
+
+  { 
+  
+    "package": "comunicacion", 
+    "url": "https://github.com/dnme-minturdep/comunicacion/" 
+   
+   } 
 ]
