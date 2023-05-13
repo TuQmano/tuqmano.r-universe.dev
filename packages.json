@@ -47,5 +47,12 @@
     "package": "comunicacion", 
     "url": "https://github.com/dnme-minturdep/comunicacion/" 
    
+   } , 
+
+  { 
+  
+    "package": "censAr", 
+    "url": "https://github.com/PoliticaArgentina/censAr" 
+   
    } 
 ]
